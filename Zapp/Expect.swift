@@ -2,7 +2,6 @@ import Foundation
 import UIKit
 
 public class Expect {
-
     public class func viewWithAccessibilityLabel(label: String) -> UIView? {
         return viewWithAccessibilityLabel(label, value: nil, traits: nil)?
     }

@@ -4,7 +4,6 @@ import UIKit
 extension UIView {
 
     func viewWithAccessibilityLabel(label: String, value: String?, traits: UIAccessibilityTraits?) -> UIView? {
-
         return viewMatchingBlock { (element: UIView) -> (Bool) in
             var labelsMatch = element.accessibilityLabel? == label
             var valuesMatch = element.accessibilityValue? == value?
@@ -24,7 +23,6 @@ extension UIView {
             if matchFound != false && matchFound != nil {
                 return matchFound
             }
-
         }
         return nil
     }
