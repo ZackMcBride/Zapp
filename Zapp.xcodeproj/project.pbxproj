@@ -14,7 +14,6 @@
 		60A4F19A19A7C46E0089C2A6 /* ZappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4F19919A7C46E0089C2A6 /* ZappTests.swift */; };
 		60A4F1A619A7C4990089C2A6 /* Expect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4F1A519A7C4990089C2A6 /* Expect.swift */; };
 		60A4F1A819A7C4AD0089C2A6 /* Tap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4F1A719A7C4AD0089C2A6 /* Tap.swift */; };
-		60A4F1AA19A7C4F90089C2A6 /* UIAccessibilityElement+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4F1A919A7C4F90089C2A6 /* UIAccessibilityElement+Additions.swift */; };
 		60A4F1AC19A7C5100089C2A6 /* UIApplication+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4F1AB19A7C5100089C2A6 /* UIApplication+Additions.swift */; };
 		60A4F1AE19A7C5210089C2A6 /* UIView+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A4F1AD19A7C5210089C2A6 /* UIView+Additions.swift */; };
 /* End PBXBuildFile section */
@@ -41,7 +40,6 @@
 		60A4F19919A7C46E0089C2A6 /* ZappTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZappTests.swift; sourceTree = "<group>"; };
 		60A4F1A519A7C4990089C2A6 /* Expect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Expect.swift; sourceTree = "<group>"; };
 		60A4F1A719A7C4AD0089C2A6 /* Tap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tap.swift; sourceTree = "<group>"; };
-		60A4F1A919A7C4F90089C2A6 /* UIAccessibilityElement+Additions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIAccessibilityElement+Additions.swift"; sourceTree = "<group>"; };
 		60A4F1AB19A7C5100089C2A6 /* UIApplication+Additions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIApplication+Additions.swift"; sourceTree = "<group>"; };
 		60A4F1AD19A7C5210089C2A6 /* UIView+Additions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Additions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -133,7 +131,6 @@
 		60A4F1A419A7C47C0089C2A6 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				60A4F1A919A7C4F90089C2A6 /* UIAccessibilityElement+Additions.swift */,
 				60A4F1AB19A7C5100089C2A6 /* UIApplication+Additions.swift */,
 				60A4F1AD19A7C5210089C2A6 /* UIView+Additions.swift */,
 			);
@@ -241,7 +238,6 @@
 			files = (
 				60A4F18919A7C46D0089C2A6 /* ViewController.swift in Sources */,
 				60A4F1A819A7C4AD0089C2A6 /* Tap.swift in Sources */,
-				60A4F1AA19A7C4F90089C2A6 /* UIAccessibilityElement+Additions.swift in Sources */,
 				60A4F1A619A7C4990089C2A6 /* Expect.swift in Sources */,
 				60A4F1AC19A7C5100089C2A6 /* UIApplication+Additions.swift in Sources */,
 				60A4F1AE19A7C5210089C2A6 /* UIView+Additions.swift in Sources */,
