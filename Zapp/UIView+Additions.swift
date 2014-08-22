@@ -19,10 +19,10 @@ extension UIView {
             return self
         }
 
-        for view: UIView in subviews as [UIView] {
+        for view: UIView in (subviews as [UIView]).reverse() {
             var matchFound = view.viewMatchingBlock(matchingBlock)
             if matchFound != false && matchFound != nil {
-                return view
+                return matchFound
             }
 
         }
