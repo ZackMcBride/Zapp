@@ -17,6 +17,36 @@
             endingLineNumber = "28"
             landmarkName = "viewMatchingBlock(_:)"
             landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectiveC.UIView.viewMatchingBlock (ObjectiveC.UIView)((ObjectiveC.UIView) -&gt; Swift.Bool) -&gt; Swift.Optional&lt;ObjectiveC.UIView&gt;"
+                  moduleName = "Zapp"
+                  urlString = "file:///Users/zackmcbride/Documents/Personal/Zapp%20-%20Functional%20Testing/Zapp/Zapp/UIView+Additions.swift"
+                  timestampString = "430600337.064623"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1505">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectiveC.UIView.viewMatchingBlock (ObjectiveC.UIView)((ObjectiveC.UIView) -&gt; Swift.Bool) -&gt; Swift.Optional&lt;ObjectiveC.UIView&gt;"
+                  moduleName = "Zapp"
+                  urlString = "file:///Users/zackmcbride/Documents/Personal/Zapp%20-%20Functional%20Testing/Zapp/Zapp/UIView+Additions.swift"
+                  timestampString = "430600337.064818"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1616">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

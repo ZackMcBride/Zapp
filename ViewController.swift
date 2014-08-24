@@ -26,6 +26,6 @@ class ViewController: UIViewController {
         // This finds the nested view
         var caughtNestedView = Expect.viewWithAccessibilityLabel("Cunt")
         println("'Cunt' found, so we get the view: \(caughtNestedView?) with accessibilityLabel: \(caughtNestedView?.accessibilityLabel)")
+
     }
 }
-
